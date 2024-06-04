@@ -1,0 +1,39 @@
+.header {
+    background-color: #1f2937;
+}
+.top-header {
+    display: flex;
+    color: #F9faf8;
+    font-size: 24px;
+    justify-content: space-between;
+    
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+    gap: 20px;
+
+    
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.maintext {
+    color: #F9faf8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.flavortext {
+    color: #e5e7eb;
+}
