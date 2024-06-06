@@ -124,4 +124,43 @@ button {
     font-size: 16px;
     padding: 5px;
     width: 150px;
+    padding-bottom: 100px;
+}
+
+.new-container {
+    height: 450px;
+    padding: 16px;
+    background: #E5E7EB;
+    border: 1px solid #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box {
+    width: 800px;
+    height: 275px;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: justify;
+    padding: 20px;
+    position: relative;
+}
+
+.quote-text {
+    margin-bottom: 20px; 
+}
+
+.quote-author {
+    
+    position: absolute;
+    bottom: 40px;
+    right: 10px;
+    font-size: 26px;
+    color: #1f2937;
+    font-weight: bold;
+    
 }
