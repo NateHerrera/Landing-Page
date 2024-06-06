@@ -164,3 +164,46 @@ button {
     font-weight: bold;
     
 }
+
+.last-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background: #3882f6;
+    border: 1px solid #3882f6;
+    border-radius: 10px;
+    margin: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 40px;
+}
+
+.last-box {
+    flex: 1;
+    text-align: left;
+}
+
+.last-text {
+    font-size: 24px;
+    color: white;
+}
+
+.last-subtext {
+    font-size: 18px;
+    color: white;
+    margin-top: 10px;
+}
+
+#second {
+    padding: 10px 30px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    color: white;
+    background-color: #3882f6;
+    border: 1px solid white;
+    cursor: pointer;
+    border-radius: 5px;
+}
